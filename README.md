@@ -29,6 +29,9 @@ English Learner is a comprehensive platform designed to help individuals improve
 - Teachers conducting English courses.
 - Professionals looking to enhance their communication skills.
 
+  ![image](https://github.com/user-attachments/assets/27c93a41-150d-47a4-82f9-fcc070ba4edb)
+
+
  How to Start the Project
 1. Run the backend:
    go run main.go
